@@ -1,7 +1,6 @@
-# CMU North Star Institute
-## setup
+# CMU North Star Institute — setup
 
-# helpful links
+## helpful links
 https://github.com/leapmotion/ProjectNorthStar/
-https://leapmotion.github.io/ProjectNorthStar/
 
+https://leapmotion.github.io/ProjectNorthStar/
