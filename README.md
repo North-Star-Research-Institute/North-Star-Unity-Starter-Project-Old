@@ -4,4 +4,3 @@
 https://github.com/leapmotion/ProjectNorthStar/
 
 https://leapmotion.github.io/ProjectNorthStar/
-
