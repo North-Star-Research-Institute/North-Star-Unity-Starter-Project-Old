@@ -18,9 +18,9 @@
 
 
 
-## OPTIONAL
+# Other
 
-Customizing the Leap Motion’s relative transform
+## Customizing the Leap Motion’s relative transform
 1. Go to ’North Star + Leap Motion’ → AR CameraRig → Head → Leap Provider
 2. Within ‘Leap XR Service Provider,’ under advanced, you can set ‘Device Offset Mode’ to Default, Manual Head Offset and Transform
 
