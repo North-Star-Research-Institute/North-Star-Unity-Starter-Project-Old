@@ -1,8 +1,9 @@
 ### CMU North Star Institute
+Oct 16, 2019
 # North Star Setup
 
-1. Extract North Star Repo
-2. Open `Unity Project - North Star & Vive Tracker`
+1. Download and extract this repository 
+2. Open `Unity Project - North Star & Vive Tracker` in Unity
 
 
 ## Importing the display calibration file for your North Star hardware
