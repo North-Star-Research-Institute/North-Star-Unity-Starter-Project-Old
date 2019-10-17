@@ -1,5 +1,5 @@
 ### CMU North Star Institute
-Oct 16, 2019
+Last Updated: Oct 16, 2019
 # North Star Setup
 
 1. Download and extract this repository 
